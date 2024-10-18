@@ -89,7 +89,7 @@ loan-prediction-project/
    python loan_analysis.py
    ```
 
-4. **Make Predictions with the Saved Model (Optional)**:  
+4. **Make Predictions with the Saved Model**:  
    ```python
    import joblib
 
